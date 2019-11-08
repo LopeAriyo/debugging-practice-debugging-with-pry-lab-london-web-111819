@@ -1,4 +1,4 @@
-requie 'pry'
+require 'pry'
 def turtles
     [
       {name: "Donatello", weapon: "bo-staff", traits: ["serious", "leader"]},
